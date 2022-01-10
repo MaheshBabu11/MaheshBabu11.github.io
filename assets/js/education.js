@@ -5,29 +5,25 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
-    title: "Data Science",
+    title: "DeepLearning.AI TensorFlow Developer",
     cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/browse/data-science",
+    moocLink: "https://www.coursera.org/professional-certificates/tensorflow-in-practice",
   },
+  
   {
-    title: "Cryptography",
-    cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/cryptography-for-beginners/",
-  },
-  {
-    title: "Machine Learning",
+    title: "Architecting with Google Compute Engine",
     cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/learn/machine-learning",
+    moocLink: "https://www.coursera.org/specializations/gcp-architecture",
   },
   {
-    title: "Introduction to HTML 5",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
+    title: "Introduction to Quantum Computing",
+    cardImage: "assets/images/education-page/tcs.jpg",
+    moocLink: "https://www.qubitbyqubit.org/programs",
   },
   {
-    title: "Introduction to CSS 3",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
+    title: "CNSS Certified Network Security Specialist",
+    cardImage: "assets/images/education-page/icsi.jpeg",
+    moocLink: "",
   },
   {
     title: "Javascript",
@@ -66,6 +62,7 @@ const moocscards = [
   },
 ];
 
+const exp = document.querySelector(".exp");
 const experience = [
   {
     img: "assets/images/education-page/c1.png"
@@ -139,19 +136,44 @@ document.addEventListener("DOMContentLoaded", showCards);
 const bagdes = document.querySelector(".badges");
 const badgesection = [
   {
-    title: "Google Developer Essentials",
-    image: "assets/images/education-page/badge1.png",
-    description: "Earned May 20, 2020",
+    title: "Microsoft Certified: Azure Developer Associate",
+    image: "assets/images/education-page/microsoft-certified-azure-developer-associate.png",
+    description: "Earned December 21, 2021",
   },
   {
-    title: "VM Migration",
-    image: "assets/images/education-page/badge2.png",
-    description: "Earned June 20, 2020",
+    title: "Data Science Foundations Specialization",
+    image: "assets/images/education-page/data-science-foundations-specialization.png",
+    description: "Earned May 23, 2020",
   },
   {
-    title: "G Suite Essentials",
-    image: "assets/images/education-page/badge3.png",
-    description: "Earned July 20, 2020",
+    title: "Python for Data Science and AI",
+    image: "assets/images/education-page/python-for-data-science-and-ai.png",
+    description: "Earned May 16, 2020",
+  },
+  {
+    title: "Data Visualization with Python",
+    image: "assets/images/education-page/python-for-data-science-and-ai.png",
+    description: "Earned May 16, 2020",
+  },
+  {
+    title: "Python for Data Science and AI",
+    image: "assets/images/education-page/data-visualization-with-python.png",
+    description: "Earned June 18, 2020",
+  },
+  {
+    title: "Data Analysis with Python",
+    image: "assets/images/education-page/data-analysis-with-python.png",
+    description: "Earned June 10, 2020",
+  },
+  {
+    title: "Big Data Foundations - Level 1",
+    image: "assets/images/education-page/big-data-foundations-level-1.png",
+    description: "Earned May 28, 2020",
+  },
+  {
+    title: "Cloud engineering - Google Cloud Platform",
+    image: "assets/images/education-page/gcp.png",
+    description: "Earned October 24, 2020",
   },
 ];
 
