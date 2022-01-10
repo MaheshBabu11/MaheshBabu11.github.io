@@ -20,7 +20,7 @@ const exp = [
     desp: "<li>Worked on Convolutional neural networks using Tensorflow and Keras.</li><li>Worked on Classification projects of objects and animals .</li><li>Worked on Gender and age classification projects.</li><li>Wokred on Image segmentation for identifying cancer cells.</li>",
   },
   {
-    title: "Ambassador",
+    title: "Ambassador - Top Person Magazine",
     cardImage: "assets/images/experience-page/top_person.jpeg",
     place: "Linkedin",
     time: "(May 2020 - present)",
