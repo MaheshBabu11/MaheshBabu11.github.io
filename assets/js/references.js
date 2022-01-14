@@ -28,21 +28,22 @@ const references = [
         image1 : "assets/images/references-page/Dr_Sahdev_Singh.jpeg",
         message1 : " Mr Mahesh is a Charming, has sense of humor, lighthearted Committed, loyal, devoted Considerate, caring, empathetic Courteous, polite Detail-oriented, punctual, quality-minded , and also Determined, persevering, goal-oriented.",
         
-
         sl2:2,
-        name2 : "Anjali Krishna",
-        designation2 : "Content Writer at Earning Designs",
-        image2 : "assets/images/references-page/Anjali_Krishna.jpeg",
-        message2 : "Mahesh and I met through LinkedIn. His skills in the Flask framework really helped me and my team in building our web application for our college project. He gave us the right directions when we needed them the most. We're grateful to Mahesh for helping us so selflessly.",
+        name2 : "Advaith Narayan",
+        designation2 : "Security Analyst at UST Global",
+        image2 : "assets/images/references-page/Advaith.jpeg",
+        message2 : "I have had the opportunity of knowing Mahesh Babu for the past. He is a detail oriented, goal oriented, ambitious and powerful co-worker, his knowledge is vast and thorough. I would recommend him with any project that requires the very best in coding. Whenever I had a problem, there has never been a time he has left me without a solution. On account of his mature approach to his responsibilities, I often thought of Mahesh Babu as a professional I could always rely upon to get the job done. Certainly worth recommending.",
+
+        
         
     },
 
     {
         sl1:1,
-        name1 : " Ashana    ",
-        designation1 : "Student at Cochin Institute of Science and Technology",
-        image1 : "assets/images/references-page/Ashana.jpeg",
-        message1 : "Mahesh is a kind-hearted , polite and a very helpful person , I am really glad to meet him . He helped me and my team a lot in our web project . His knowledge regarding flask, python and database is really great ",
+        name1 : "Anjali Krishna",
+        designation1 : "Content Writer at Earning Designs",
+        image1 : "assets/images/references-page/Anjali_Krishna.jpeg",
+        message1 : "Mahesh and I met through LinkedIn. His skills in the Flask framework really helped me and my team in building our web application for our college project. He gave us the right directions when we needed them the most. We're grateful to Mahesh for helping us so selflessly.",
         
 
         sl2:2,
@@ -53,12 +54,18 @@ const references = [
          
     },
     
-    {
+    {        
         sl1:1,
-        name1 : "Shivam Sinha ",
-        designation1 : "Freelance Web Developer",
-        image1 : "assets/images/references-page/Shivam.jpeg",
-        message1 : "Mahesh is a dedicated and reliable person. He works dedicatedly in a group and has solid information about advances required for programming. He is always excited about learning new aptitudes and endeavors to complete tasks in given time. I recommend that Mahesh Babu would definitely be a resource for any association.",
+        name1 : "Ashana",
+        designation1 : "Student at Cochin Institute of Science and Technology",
+        image1 : "assets/images/references-page/Ashana.jpeg",
+        message1 : "Mahesh is a kind-hearted , polite and a very helpful person , I am really glad to meet him . He helped me and my team a lot in our web project . His knowledge regarding flask, python and database is really great ",
+
+        sl2:2,
+        name2 : "Shivam Sinha ",
+        designation2 : "Freelance Web Developer",
+        image2 : "assets/images/references-page/Shivam.jpeg",
+        message2 : "Mahesh is a dedicated and reliable person. He works dedicatedly in a group and has solid information about advances required for programming. He is always excited about learning new aptitudes and endeavors to complete tasks in given time. I recommend that Mahesh Babu would definitely be a resource for any association.",
     }
     
 ];
